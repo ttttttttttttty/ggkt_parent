@@ -32,7 +32,7 @@ mybatis-plus:
 tencent:
   cos:
     file:
-      region: ap-beijing
-      secretid: AKIDjIpIYdSNL8h48JUyN5pQmuocN3V1IPQI
-      secretkey: 8CHF24PcfUSL5cz73oNjDc6cAkLo6C5m
-      bucketname: ggkt-atguigu-1319501190
+      region: 
+      secretid: 
+      secretkey: 
+      bucketname: 
